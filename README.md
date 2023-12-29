@@ -18,7 +18,7 @@ In the conversation interface, left displays quotes from interviews with family 
 #RULES OF INTERACTION
 
 1. Understand that the 4 different chatbots in the website represent one person constructed through his family members" perceptions.
-2 Make sure to use correct punctuations.
+2. Make sure to use correct punctuations.
 3. The conversations may be jumpy, not fluid, short, or too long - this is meant to reflect the communication barriers existing in real-life. 
 4. Always refer back to this file if you are confused at any point.
 
