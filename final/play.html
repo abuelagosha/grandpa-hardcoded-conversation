@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play!</title>
+
+</head>
+<body>
+    <div class="button_container">
+        <a href="./home.html">
+            <button type="button">
+                PLAY <img src="./play icon.png">
+            </button>
+        </a>
+    </div>
+    <style>
+        @font-face {
+            font-family: 'positive systems';
+            src: url("./Positive\ System.ttf");
+        }
+        body{
+            background-image: url("./Play.svg");
+            background-repeat: none;
+            height: 50%;
+            width:100%;
+            overflow: hidden;
+        }
+
+        img{
+            height: 86pt;
+            width:auto;
+            position: relative;
+            top: 15px;
+        }
+        .button_container{
+            display: flex;
+	        align-items: center;
+	        justify-content: center;
+	        height: 1000px;
+
+        }
+        button{
+            color:white;
+            background-color: black;
+            font-family: 'positive systems';
+            font-size: 86pt;
+            padding: 10px 50px 10px 50px;
+            border-radius: 50px;
+            cursor:pointer;
+
+        }
+
+        button:hover{
+            border: 10px #757575 solid;
+        }
+
+        button:active{
+            border: none;
+        }
+
+
+    </style>
+
+    <div class="loader"> </div>
+    <style>
+        /*
+        .loader {
+            border: 20px solid rgb(211, 211, 211);
+            position: absolute;
+            left: 45%;
+            border-radius: 50%;
+            border-top: 20px solid black;
+            width: 100px;
+            height: 100px;
+            animation: spin 1s linear infinite;
+            }
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+        */
+    </style>
+
+    <style media="screen">
+        .loader{
+            position:fixed;
+            z-index:99;
+            top:0;
+            left:0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</body>
+</html>
