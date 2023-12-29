@@ -68,5 +68,5 @@ Potential Questions / Replies
 
 **Bonus: Ask him a question starting with "Do you want.." 
 
-E) REPLAY 
-You can repeat the process until you feel like you understand who the person behind this screen is.
+
+- You can repeat the process until you feel like you understand who the person behind this screen is.
