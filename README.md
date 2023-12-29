@@ -1,4 +1,4 @@
-# grandpa-conversation-website
+# Project Description
 
 This website is the mid-outcome of my project trying to materialize my grandpa's identity. It was created in June 2022. 
 
@@ -15,14 +15,14 @@ The conversation was programmed using RiveScript.
 In the conversation interface, left displays quotes from interviews with family that contextualizes my grandpa's comments displayed in the right. 
 
 
-#RULES OF INTERACTION
+# RULES OF INTERACTION
 
 1. Understand that the 4 different chatbots in the website represent one person constructed through his family members" perceptions.
 2. Make sure to use correct punctuations.
 3. The conversations may be jumpy, not fluid, short, or too long - this is meant to reflect the communication barriers existing in real-life. 
 4. Always refer back to this file if you are confused at any point.
 
-A) GRANDPA 1 (Duration 1-2 minutes) 
+# A) GRANDPA 1 (Duration: 1-2 minutes)
 
 Potential Questions / Replies 
 1. Hi grandpa
@@ -31,7 +31,7 @@ Potential Questions / Replies
 4. (yes/no) school is ____.
 5. Mom is ____./ She is ____.
 
-B) GRANDPA 2 (Duration 2-4 minutes) 
+# B) GRANDPA 2 (Duration 2-4 minutes) 
 
 Potential Questions / Replies 
 1. Hi grandpa
@@ -41,7 +41,7 @@ Potential Questions / Replies
 *If he repeatedly asks about your studies, make sure to reply by including phrases "yes i will study" or "yes i am studying"
 
 
-C) FATHER IN LAW
+# C) FATHER IN LAW (Duration: 6-10 minutes)
 
 Potential Questions / Replies 
 1. Hello.
@@ -56,7 +56,7 @@ Potential Questions / Replies
 10. What else do you do these days?
 11. How are you?
 
-D) FATHER
+# D) FATHER (Duration: 2-4 minutes)
 
 Potential Questions / Replies 
 1. Hi dad
